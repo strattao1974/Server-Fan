@@ -1,4 +1,6 @@
 # Server-Fan
 
+For Arduino Uno with relay and DHT11
+ 
 Link to tutorial
-http://www.instructables.com/id/Automated-cooling-fan-for-Pi/
+https://appuals.com/how-to-make-an-automated-fan-to-prevent-electronic-devices-from-heating/
